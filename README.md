@@ -12,9 +12,9 @@ It is not designed for organisations who may be creating or training their own m
 
 - **23 Individual Controls**: These controls represent various facets of an organisation's AI readiness.
 
-- **DEISIO Rating System**: Every control is evaluated against a DEISIO rating, ranging from 1 - 5. 
+- **DEISO Rating System**: Every control is evaluated against a DEISO rating, ranging from 1 - 5. 
 
-## DEISIO Rating Definitions
+## DEISO Rating Definitions
 
 1. **DEVELOPING**: At the initial stage of readiness with a basic understanding but lacking strategy or dedicated resources.
 
@@ -39,6 +39,6 @@ It is not designed for organisations who may be creating or training their own m
 ## How to Use
 
 1. Review the 23 individual controls and understand their relevance to your organisation.
-2. Assign a DEISIO rating for each control based on your organisation's current stage.
+2. Assign a DEISO rating for each control based on your organisation's current stage.
 3. Calculate the average rating across each control domain and for the overall score.
 4. Refer to the interpretation of scores to determine the next steps for your organisation.
