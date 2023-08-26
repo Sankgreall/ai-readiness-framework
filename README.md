@@ -16,15 +16,15 @@ It is not designed for organisations who may be creating or training their own m
 
 ## DEISO Rating Definitions
 
-1. **DEVELOPING**: At the initial stage of readiness with a basic understanding but lacking strategy or dedicated resources.
+1. **Developing**: At the initial stage of readiness with a basic understanding but lacking strategy or dedicated resources.
 
-2. **EXPLORING**: Actively seeking knowledge and understanding, possibly with a dedicated team, but no measurable outcomes.
+2. **Exploring**: Actively seeking knowledge and understanding, possibly with a dedicated team, but no measurable outcomes.
 
-3. **IMPLEMENTING**: Started to implement changes with a clear strategy and dedicated resources.
+3. **Implementing**: Started to implement changes with a clear strategy and dedicated resources.
 
-4. **SCALING**: Successfully implemented projects and scaling efforts with changes becoming an integral part of operations.
+4. **Scaling**: Successfully implemented projects and scaling efforts with changes becoming an integral part of operations.
 
-5. **OPTIMISING**: Fully integrated changes, with continuous improvements and exploration of advanced techniques.
+5. **Optimising**: Fully integrated changes, with continuous improvements and exploration of advanced techniques.
 
 ## Interpretation of Scores
 
